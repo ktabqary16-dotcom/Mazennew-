@@ -1,0 +1,7 @@
+{
+    "version": "9.0.0",
+    "app_name": "Mazennew",
+    "author": "Mazen",
+    "https_enabled": true,
+    "default_tunnel": "cloudflare"
+}
