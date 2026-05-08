@@ -1,0 +1,10 @@
+admin
+root
+123456
+password
+toor
+qwerty
+letmein
+welcome
+monkey
+dragon
